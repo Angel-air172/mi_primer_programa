@@ -7,7 +7,8 @@ int main(){
 	printf("Primer elemento: %d\n", *ptr); //Equivalente a arr[0]
 	printf("Segundo elemento: %d\n", *(ptr + 1)); //Equivalente a arr[1]
 	printf("Tercer elemento: %d\n", *(ptr+2)); //Equivalente a arr[2]
-	
+	  
+	printf("hola mndo");  
 	return 0;
 }
 
